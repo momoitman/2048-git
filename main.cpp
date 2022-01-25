@@ -31,4 +31,5 @@ int main() {
 	int kk = 0;
 	cin >> kk;
 	return 0;
+
 }
